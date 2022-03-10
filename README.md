@@ -2,25 +2,11 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+This project motivated me to do something more challenging and break out of my comfort zone. I built this specific project because the company wanted to see what I was capable to before they hired me. I was able to solve most if not all the bugs and was able to shorten the style.css to make it look a lot neater. I was able to learn how to switch divs out and input the actual html element while also learning how to shorten and tidy up a stylesheet.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+First, I had to pick a section to start with. I figured it would be easier to start on the index.html file. I ended up changing the title to the company's name so that the user can identify what page they're on. After that, I ended up changing all the <divs> into the correct HTML element. Once all of that was completed, I noticed that one of the links to the page wasn't working so I had to add an id to it and its approriate name to it. Took me a couple of tries but I got it to work in the end. I decided to look over the page to see if anything else was missing and noticed that the images were missing the <alt> attributes. Once completed and looked over, I went into CSS and started to see what was wrong with that. I noticed a lot of repititon on the page and decided to organize it and consolidated the page.
 
 ## Usage
 
@@ -34,34 +20,5 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+https://github.com/kgiunta
+https://github.com/julianr3
