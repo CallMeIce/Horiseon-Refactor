@@ -13,9 +13,24 @@ First, I had to pick a section to start with. I figured it would be easier to st
 This is the Horiseon Website and it is a user friendly website. You just have to navigate on the top right where you see "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing". This are links that will send you to the designated spot on the page to get more information about that particular category. 
     
 ![Horiseon Website full screenshot of web application](./assets/images/Horiseon-Refactor-Website.png)
-    
 
 ## Credits
 
 https://github.com/kgiunta
 https://github.com/julianr3
+
+## License
+
+ 2019 Horiseon Social Solution Services, Inc.
+
+## Badges
+N/A
+
+## Features
+N/A
+
+## How to Contribute
+N/A
+
+## Tests
+N/A
