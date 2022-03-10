@@ -10,13 +10,10 @@ First, I had to pick a section to start with. I figured it would be easier to st
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+This is the Horiseon Website and it is a user friendly website. You just have to navigate on the top right where you see "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing". This are links that will send you to the designated spot on the page to get more information about that particular category. 
+    
+![Horiseon Website full screenshot of web application](./assets/images/Horiseon-Refactor-Website.png)
+    
 
 ## Credits
 
